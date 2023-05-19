@@ -36,4 +36,4 @@ set linebreak
 
 " Configure the color scheme
 " (Replace 'desert' with your preferred color scheme)
-colorscheme habamax
+colorscheme elflord
