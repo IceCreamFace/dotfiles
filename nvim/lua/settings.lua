@@ -14,6 +14,7 @@ vim.cmd('filetype plugin indent on')
 vim.opt.linebreak = true
 vim.o.background = "dark" -- or "light" for light mode
 vim.cmd([[colorscheme gruvbox]])
+vim.cmd('set nofoldenable')
 
 -- telescope bindings
 local builtin = require('telescope.builtin')
